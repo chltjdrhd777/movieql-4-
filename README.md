@@ -1,2 +1,2 @@
-# movieql-4-
-mutation
+# movieql
+movie API with Graphql
